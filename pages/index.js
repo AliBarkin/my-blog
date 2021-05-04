@@ -46,7 +46,9 @@ Yazıyı beğendiğiniz ve faydalı bulduğunuz takdirde takım arkadaşlarını
         }
         
         p{
-          text-align: center;
+          text-align: justify;
+          color: #6A736F;
+          font-size: large; 
         }
       `}</style>
 
